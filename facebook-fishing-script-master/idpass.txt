@@ -1,0 +1,24 @@
+=======================================================================================
+|| TIME  || IP ADDRESS || OPERATING SYSTEM || BROWSER || DEVICE || EMAIL || PASSWORD ||
+=======================================================================================
+2019-12-05 19:14:36 - istiyak@chieferp.com - 123456
+2019-12-05 19:22:00 - abhisgdx@gmail.com - abhi23
+2019-12-05 19:27:19 - 192.168.1.1 - aa@a.com - 123456
+2019-12-05 19:34:32 - 192.168.1.1 -  - aa@a.com - 123456
+2019-12-05 19:35:40 - 192.168.1.1 -  - aa@a.com - 123456
+2019-12-05 19:40:41 - 192.168.1.1 - Ubuntu - aa@a.com - 123456
+2019-12-05 19:42:02 - 192.168.1.1 - Ubuntu - Firefox - Computer - aa@a.com - 123456
+2019-12-05 19:43:33 - 192.168.1.1 - Ubuntu - Firefox - Computer - aasfasdffa@a.com - 123456asfdasdf
+2019-12-05 19:45:20 - 192.168.1.1 - Unknown OS Platform - Unknown Browser - Computer - aasfasdffa@a.com - 
+2019-12-05 19:45:33 - 192.168.1.1 - Unknown OS Platform - Unknown Browser - Computer -  - 
+2019-12-05 19:45:53 - 192.168.1.1 - Android - Handheld Browser - Mobile - aasfasdffa@a.com - 123456asfdasdf
+2019-12-05 19:46:20 - 103.111.224.111 - Android - Handheld Browser - Mobile - aasfasdffa@a.com - 123456asfdasdf
+2019-12-05 19:46:55 - 103.111.224.111 - Android - Handheld Browser - Mobile - aasfasdffa@a.com - 123456asfdasdf
+2019-12-06 06:47:03 - 47.31.184.162 - Android - Handheld Browser - Mobile - aasfasdffa@a.com - 123456asfdasdf
+2019-12-09 13:46:59 - 192.168.1.1 - Android - Handheld Browser - Tablet - 01****7433 - ****
+2019-12-09 13:59:51 - 202.134.13.133 - Android - Handheld Browser - Tablet - 01****8 - *ay***
+2019-12-09 14:04:39 - 202.134.13.133 - Android - Handheld Browser - Tablet - 0184****58 - N****
+2019-12-09 14:05:05 - 37.111.202.172 - Android - Handheld Browser - Tablet - 018***8787 - suj***erior
+2019-12-09 14:31:40 - 103.111.226.157 - Android - Handheld Browser - Tablet - sajudas****il.com - 
+2019-12-09 14:36:41 - 103.111.226.157 - Android - Handheld Browser - Tablet -  - 
+2019-12-09 16:17:27 - 58.145.188.226 - Android - Handheld Browser - Mobile - 0196*****475 - 7187*****123
